@@ -1,0 +1,1 @@
+Se debe actualiza la condena de conexión en la base de datos
